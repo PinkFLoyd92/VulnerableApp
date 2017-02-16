@@ -1,0 +1,16 @@
+{
+  "name": "Aplicacion Vulnerable",
+  "authors": [
+    "pinkfloyd92 <ascacere92@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
